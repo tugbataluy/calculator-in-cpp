@@ -1,0 +1,4 @@
+A = 2
+B = 3
+LOOP C = C + A * B TIMES 5
+OUT C

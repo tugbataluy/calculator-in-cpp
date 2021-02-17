@@ -1,0 +1,4 @@
+A = 1
+B = 2
+C = IF ( A + B ) <= 3 THEN A ELSE B
+OUT C
